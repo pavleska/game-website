@@ -1,0 +1,155 @@
+.img-part-1 {
+    outline: none;
+    text-decoration: none;
+    display: block;
+    margin-right: 0;
+    padding: 10px 0px;
+    text-align: center;
+    text-transform: uppercase;
+}
+.img-part-1 a .img-container{
+    width: 180px;
+    height: 180px;
+    display: inline-block;
+    border-radius: 50%;
+    overflow: hidden;
+    position: relative;
+}
+.img-part-1 a .text-header {
+    margin-top: 25px;
+}
+.img-part-1 a .text-header .title {
+font-family: "Agency FB";
+font-size: 40px;
+font-weight: 700;
+line-height: normal;
+white-space: nowrap;
+width: 100%;
+overflow: hidden;
+text-overflow: ellipsis;
+transition: all 0.3s ease-out;
+color: #fff;
+}
+.img-part-1 a .text-header .date {
+    color: #c2d4f8;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: normal;
+}
+.mt90 {
+    margin-top: 90px
+}
+.game-section .mt90 {
+    background-color: #292845;
+    border-radius: 10px;
+    position: relative;
+}
+.left-side {
+    height: 610.2px;
+    padding-top: 90px;
+    padding-bottom: 90px;
+    padding-left: 100px;
+}
+.table-font {
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 14px;
+}
+.table {
+    display: table;
+    margin-bottom: 0;
+}
+.valign-middle {
+    vertical-align: middle;
+}
+.table-cell {
+    display: table-cell;
+}
+.ws-20 {
+    word-spacing: 20px;
+}
+.color-1 {
+    color: #3dd0d8;
+}
+.lheight-normal {
+    line-height: normal;
+}
+.color-white {
+    color: #fff;
+}
+.uppercase {
+    text-transform: uppercase;
+}
+.fweight-700 {
+    font-weight: 700;
+}
+.fsize-32 {
+    font-size: 32px;
+}
+.font-agency {
+    font-family: "Agency FB";
+}
+.mt50 {
+    margin-top: 50px;
+}
+.lheight-26 {
+    line-height: 26px;
+}
+.fweight-300 {
+    font-weight: 300;
+}
+.color-blue {
+    color: #c2d4f8
+}
+p { 
+    line-height: 26px;
+    margin-bottom: 25px;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.mt60 {
+    margin-top: 60px;
+}
+.btn.gradient {
+    background: linear-gradient(to right, #3dd0d8 0%, rgba(124, 105, 227, 0.64) 100%);
+}
+.btn {
+    border-radius: 10px;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 700;
+    border: 0;
+}
+.ptb19 {
+    padding-top: 19px;
+    padding-bottom: 19px;
+}
+.plr60 {
+    padding-left: 60px;
+    padding-right: 60px;
+}
+.pr0 {
+    padding-right: 0;
+}
+.game-section .mt90 .image-bl {
+    position: absolute;
+    top: 50%;
+    right: -60px;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+.game-section .mt90 .game-full-img {
+    width: 570px;
+    height: 450px;
+    background-size: cover;
+    background-position: center center;
+    border-radius: 10px;
+    overflow: hidden;
+    max-width: 100%;
+}
+img {
+    border: 0;
+}

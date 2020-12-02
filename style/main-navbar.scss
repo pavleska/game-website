@@ -1,0 +1,13 @@
+.main-navbar {
+    position: absolute;
+    top: 0;
+    z-index: +1;
+}
+.main-navbar .navbar{
+    position: sticky;
+    background-color: rgba(24, 23, 40, 0.8);
+    padding: 20px 100Npx;
+}
+.main-navbar .col-12 {
+    padding: 0;
+}
