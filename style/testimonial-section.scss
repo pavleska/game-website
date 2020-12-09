@@ -1,0 +1,74 @@
+.testimonials {
+    padding-top: 90px;
+    padding-bottom: 90px;
+    text-align: center;
+}
+.testimonials .tesimonials-title  .title {
+    font-family: "Agency FB";
+    font-size: 40px;
+    font-weight: 700;
+    text-shadow: 0 2px 4.8px rgba(30, 29, 50, 0.3);
+    text-transform: uppercase;
+    color: white;
+}
+.testimonials .tesimonials-title  .subtitle {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    opacity: 0.045;
+    text-shadow: 0 2px 4.8px rgba(30, 29, 50, 0.3);
+    color: #c2d4f8;
+    font-family: "Agency FB";
+    font-size: 88px;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-overflow: ellipsis;
+}
+.testimonials-content {
+    margin-bottom: 30px;
+    margin-top: 160px;
+}
+.testimonials-header {
+    background-color: #181728;
+    border-radius: 10px;
+    padding: 100px 70px 70px 70px;
+    position: relative;
+    display: block
+}
+.testimonials-content .testimonials-header .testimonials-img {
+    border-radius: 50%;
+    overflow: hidden;
+    display: inline-block;
+    position: absolute;
+    top: -60px;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    transform: translateX(-50%);
+}
+.testimonials-text {
+    text-align: center;
+    display: block;
+}
+div {
+    display: block
+}
+.testimonials-header-text {
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 700px;
+    font-size: 24px;
+    font-family: "Agency FB";
+}
+.gamer {
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 14px;
+    color: #3dd0d8;
+}
+.testimonials-text{
+    margin-top: 40px;
+    font-size: 20px;
+    font-style: italic;
+    color: #c2d4f8
+}
