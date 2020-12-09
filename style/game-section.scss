@@ -39,8 +39,20 @@
 .games a {
     text-decoration: none;
 }
-.games a:hover {
-    color: blue;
+.games:nth-child(2n) {
+    .title {
+        color: red !important;
+    }
+}
+
+.games:hover {
+    .game-img {
+        opacity: .5;
+    }
+
+    .title {
+        color: blue !important;
+    }
 }
 .games a .game-img {
     width: 180px;
