@@ -39,12 +39,6 @@
 .games a {
     text-decoration: none;
 }
-.games:nth-child(2n) {
-    .title {
-        color: red !important;
-    }
-}
-
 .games:hover {
     .game-img {
         opacity: .5;
